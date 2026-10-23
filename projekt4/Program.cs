@@ -84,8 +84,3 @@ class Program
 
 
 
-
-
-//KontoBankowe konto1 new KontoBankowe("Jan",1000);
-//KontoBankowe konto2;
-//KontoBankowe konto3;
